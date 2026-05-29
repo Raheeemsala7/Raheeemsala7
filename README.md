@@ -16,24 +16,7 @@
 
 ###
 
-<h4 align="center">Contact me</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rahem-salah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Rahem_Sala7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack & Tools 💻</h2>
 
 ###
 
@@ -66,9 +49,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Raheeemsala7/Raheeemsala7/snake-output/snake.svg" alt="Snake animation" />
 
 ###
